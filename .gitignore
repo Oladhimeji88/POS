@@ -11,6 +11,11 @@ out/
 build/
 dist/
 
+# Local tooling / logs
+.claude/settings.local.json
+dev.log
+*.tsbuildinfo
+
 # Misc
 .DS_Store
 *.pem
